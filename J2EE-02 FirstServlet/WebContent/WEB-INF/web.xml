@@ -8,7 +8,7 @@
     <servlet-class>controlers.HelloWorld</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>Test</servlet-name>
-    <url-pattern>/test2</url-pattern>
+    <servlet-name>HelloWorld</servlet-name>
+    <url-pattern>/HelloWorld</url-pattern>
   </servlet-mapping>
 </web-app>
